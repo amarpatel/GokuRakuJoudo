@@ -143,3 +143,6 @@ Use `lein repl` for developing.
 
 `make compile` to compile clojure file to jar
 `make bin` to compile jar to native file (make sure GRAALVM `native-image` binary is in `PATH`)
+
+See [BUILDING.md](./BUILDING.md) for native build prerequisites, verification,
+and the local fork build script.
